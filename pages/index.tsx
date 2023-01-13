@@ -35,7 +35,7 @@ export default function Home() {
           SovTech strikes me as forward thinkers. They know that software is an 
           ever changing and evolving field and thus invests time and resources into
           graduates to help the company thrive. Sovtech not only has an impressive track 
-          record but they continue to thrive and optimize their costumer&apos;s business.
+          record but they continue to thrive and optimize their costumers business.
           It is clear from reading case studies and blogs that SovTech has a team of
           highly innovative thinkers. It would be an honour to learn from them and to 
           learn and work with peers in such an environment. 
